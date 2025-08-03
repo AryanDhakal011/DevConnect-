@@ -12,3 +12,5 @@ router. post('/otp-verification', user.verifyEmail);
 router.post('/login', user.login);
 
 export default router;
+
+
